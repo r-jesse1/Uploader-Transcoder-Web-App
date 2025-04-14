@@ -4,3 +4,6 @@
 [submodule "API"]
 	path = API
 	url = https://github.com/r-jesse1/Uploader-Transcoder-api.git
+[submodule "ECS-Worker"]
+	path = ECS-Worker
+	url = https://github.com/r-jesse1/Uploader-Transcoder-ECS-Worker.git
