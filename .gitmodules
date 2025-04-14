@@ -1,0 +1,3 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/r-jesse1/Uploader-Transcoder-Frontend.git
