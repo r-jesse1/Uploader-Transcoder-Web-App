@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/r-jesse1/Uploader-Transcoder-Frontend.git
+[submodule "API"]
+	path = API
+	url = https://github.com/r-jesse1/Uploader-Transcoder-api.git
